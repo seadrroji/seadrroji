@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello, I'm Sead Rroji 👋
 
-<!--
-**seadrroji/seadrroji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Artificial Intelligence student at Western Balkans University, and a software engineering student at 42 Tirana. I enjoy building practical software, improving my engineering fundamentals, and exploring systems, AI, and cybersecurity through real projects.
 
-Here are some ideas to get you started:
+I’m especially interested in:
+- C and C++ systems programming
+- Python-based AI and data projects
+- Machine learning, NLP, and data visualization
+- Cybersecurity fundamentals and secure software development
+- Algorithms, problem solving, and clean software design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming
+- C
+- C++
+- Python
+- Java
+- SQL
+- HTML & CSS
+- JavaScript / TypeScript
+- Svelte
+
+### Systems & Software Engineering
+- Linux shell scripting
+- UNIX systems programming
+- Memory management
+- Data structures and algorithms
+- Object-oriented programming
+- Git & GitHub
+- Vim / Neovim
+
+### AI & Data
+- Machine Learning
+- Natural Language Processing
+- Artificial Neural Networks
+- Big Data
+- Data Visualization
+
+## Education
+- BSc in Computer Science and Artificial Intelligence — Western Balkans University
+- Software Engineering student — 42 Tirana
+
+## Current Focus
+- Strengthening my low-level programming and systems knowledge
+- Building practical AI and data projects
+- Improving my problem-solving and software design skills
+- Exploring cybersecurity and secure software development
